@@ -13,9 +13,9 @@
 
 ```bash
 # Claude Code (개인)
-git clone https://github.com/<owner>/proposal-deck-kr ~/.claude/skills/proposal-deck-kr
+git clone https://github.com/minsooparkk/proposal-deck-kr ~/.claude/skills/proposal-deck-kr
 # Codex 등 Agent Skills 경로를 쓰는 에이전트
-git clone https://github.com/<owner>/proposal-deck-kr ~/.agents/skills/proposal-deck-kr
+git clone https://github.com/minsooparkk/proposal-deck-kr ~/.agents/skills/proposal-deck-kr
 ```
 
 새 대화에서 "우리 법인 서비스 소개서 PPT 만들어줘"처럼 요청하면 스킬이 쓰입니다. 같은 이름의 오래된 사본을 다른 스킬 경로에 함께 두지 않습니다.
